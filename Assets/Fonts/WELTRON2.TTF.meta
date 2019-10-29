@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 499e0fbbb24aa4283b9c96de359552fc
+timeCreated: 1511519186
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 130
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Weltron 2001
+  fontNames:
+  - Weltron 2001
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
